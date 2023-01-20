@@ -18,5 +18,11 @@ public class Main {
 
         System.out.println(SalesByMatch.sockMerchant(9, myList));
 
+        String stepInfo = "UDDDUD";
+
+       int result =  CountingValleys.countingValleys(8,stepInfo );
+
+       System.out.println(result);
+
     }
 }
